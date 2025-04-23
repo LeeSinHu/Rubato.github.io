@@ -19,7 +19,9 @@ members:
 
 ## 플레이 과정
 * 정거장에서
-
+<img src="/assets/images/heat1.jpg" width="40%" height="20%" title="station1" alt="RubberDuck"></img>
+<img src="/assets/images/heat2.jpg" width="40%" height="20%" title="station1" alt="RubberDuck"></img>
+  + 플라스틱 신체를 가진 도미니언들은 체온이 한계에 도달하면 넘어진다. 넘어지는 승객은 다른 승객들까지 함께 넘어뜨릴 수 있다.
 
 * 우주비행선 내부에서
 
