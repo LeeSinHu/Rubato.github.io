@@ -19,8 +19,10 @@ members:
 
 ## 플레이 과정
 * 정거장에서
-<img src="assets/images/2.heat1.png" width="40%" height="20%" title="station1" alt="station1" style="display: block; margin: auto;"></img>
-<img src="assets/images/2.heat2.png" width="40%" height="20%" title="station2" alt="station2" style="display: block; margin: auto;"></img>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="assets/images/2. heat1.png" width="45%" title="station1" alt="station1">
+  <img src="assets/images/2. heat2.png" width="45%" title="station2" alt="station2">
+</div>
   + 플라스틱 신체를 가진 도미니언들은 체온이 한계에 도달하면 넘어진다. 넘어지는 승객은 다른 승객들까지 함께 넘어뜨릴 수 있다.
 
 * 우주비행선 내부에서
