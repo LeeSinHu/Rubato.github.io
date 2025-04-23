@@ -17,16 +17,32 @@ members:
 
 ---
 
-## 플레이 과정
-* 정거장에서
+## 게임 설명
+### 정거장에서
 <table>
   <tr>
     <td><img src="assets/images/2. heat1.png" width="440"></td>
     <td><img src="assets/images/2. heat2.png" width="440"></td>
   </tr>
 </table>
-  + 플라스틱 신체를 가진 도미니언들은 체온이 한계에 도달하면 넘어진다. 넘어지는 승객은 다른 승객들까지 함께 넘어뜨릴 수 있다.
 
-* 우주비행선 내부에서
+△ 플라스틱 신체를 가진 도미니언들은 **체온**이 한계에 도달하면 **넘어진다**. 넘어지는 승객은 다른 승객들까지 함께 넘어뜨릴 수 있다.
+
+<br>  
+
+<table>
+  <tr>
+    <td><img src="assets/images/5. remind1.png" width="294"></td>
+    <td><img src="assets/images/5. remind2.png" width="294"></td>
+    <td><img src="assets/images/5. remind3.png" width="294"></td>
+  </tr>
+</table>
+
+△ 안전한 대기줄을 관리를 위한 요령
+1. 뜨거운 도미니언을 **냉각포**로 얼린다.
+2. 체온이 떨어질 때까지 **기다린다.**
+3. 얼음을 **깨뜨린다.**
+
+### 우주비행선 내부에서
 
 ---
