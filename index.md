@@ -68,8 +68,11 @@ members:
 <br>  
 
 - **진행 방법**
-
-<img src="assets/images/1_space bar.png" width="440">
+<table>
+  <tr>
+    <td><img src="assets/images/1_space bar.png" width="440"></td>
+  </tr>
+</table>
 
 △ 선내에서는 다른 도미니언과 대화하거나 각종 기물들과 상호작용할 수 있다.
 
