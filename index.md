@@ -19,6 +19,17 @@ members:
 
 ## 게임 설명
 ### 정거장에서
+- **플레이 화면**
+<table>
+  <tr>
+    <td><img src="assets/images/AnomiDo_InGame1.png" width="440"></td>
+    <td><img src="assets/images/AnomiDo_Ingame2.png" width="440"></td>
+  </tr>
+</table>
+
+<br>  
+
+- **진행 방법**
 <table>
   <tr>
     <td><img src="assets/images/2. heat1.png" width="440"></td>
@@ -43,6 +54,27 @@ members:
 2. 체온이 떨어질 때까지 **기다린다.**
 3. 얼음을 **깨뜨린다.**
 
+<br> 
+
 ### 우주비행선 내부에서
+- **플레이 화면**
+<table>
+  <tr>
+    <td><img src="assets/images/AnomiDo_Ingame3.png" width="440"></td>
+    <td><img src="assets/images/AnomiDo_Ingame4.png" width="440"></td>
+  </tr>
+</table>
+
+<br>  
+
+- **진행 방법**
+<table>
+  <tr>
+    <td><img src="assets/images/2. fight1.png" width="440"></td>
+    <td><img src="assets/images/2. fight3_parry2.png" width="440"></td>
+  </tr>
+</table>
+
+△ 플라스틱 신체를 가진 도미니언들은 **체온**이 한계에 도달하면 **넘어진다**. 넘어지는 승객은 다른 승객들까지 함께 넘어뜨릴 수 있다.
 
 ---
