@@ -19,7 +19,7 @@
 ---
 
 ## 데모 시연
-[![AnomiDo_Demo](https://youtu.be/VcSYgbY5toU/0.jpg)](https://youtu.be/VcSYgbY5toU)
+[![AnomiDo_Demo](https://img.youtube.com/vi/VcSYgbY5toU/0.jpg)](https://youtu.be/VcSYgbY5toU)
     
 ---
 
