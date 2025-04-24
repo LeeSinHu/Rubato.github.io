@@ -115,6 +115,5 @@
 ---
 ## 사운드트랙
 <a href="https://soundcloud.com/l9m1ef27evmh/sets/anomido-soundtrack?si=1a75956bbb5f4bb3949f20cbc5dbcaa6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Link : AnomiDo SoundTrack</a>  
-<br>
 총 여덟 개의 자체 제작된 BGM이 게임에 사용되었다.
 
