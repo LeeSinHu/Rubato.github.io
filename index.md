@@ -1,7 +1,7 @@
 # 아노미도
 **팀명:** 루바토  
 **팀 구성:** 이신후, 이준협, 장하연  
-**데모 다운로드:**  [⏬ Windows용 실행 파일 다운로드 (Google Drive)](https://drive.google.com/drive/folders/1zhYPFFzwrAy1z_THmhuf5KP5f6YXQg43?usp=drive_link)
+**데모 다운로드:**  [⏬ Windows용 게임 압축 파일 다운로드 (Google Drive)](https://drive.google.com/drive/folders/1zhYPFFzwrAy1z_THmhuf5KP5f6YXQg43?usp=drive_link)
 
 
 ## 개요
