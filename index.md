@@ -1,5 +1,6 @@
 # 아노미도
-**팀명:** 루바토  |  **팀 구성:** 이신후, 이준협, 장하연  
+**팀명:** 루바토  
+**팀 구성:** 이신후, 이준협, 장하연  
 **데모 다운로드:**  [⏬ Windows용 실행 파일 다운로드 (Google Drive)](https://drive.google.com/drive/folders/1zhYPFFzwrAy1z_THmhuf5KP5f6YXQg43?usp=drive_link)
 
 
@@ -109,6 +110,6 @@
 
 ---
 ## 사운드트랙
-<a href="https://soundcloud.com/l9m1ef27evmh/sets/anomido-soundtrack?si=1a75956bbb5f4bb3949f20cbc5dbcaa6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">Link : AnomiDo SoundTrack</a>  
+<a href="https://soundcloud.com/l9m1ef27evmh/sets/anomido-soundtrack?si=1a75956bbb5f4bb3949f20cbc5dbcaa6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">🎵Link : AnomiDo SoundTrack</a>  
 총 여덟 개의 자체 제작된 BGM이 게임에 사용되었다.
 
